@@ -3,3 +3,5 @@ Most of them was modified from codes in the [presentations](http://pocoproject.o
 
 More documentation of POCO C++ Libraries:  
 [http://pocoproject.org/documentation/](http://pocoproject.org/documentation/)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wancw/poco-examples/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
